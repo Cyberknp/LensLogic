@@ -1,0 +1,5 @@
+{
+  "name": "LensLogic",
+  "description": "Real-Time Code-to-Architecture Visualizer",
+  "requestFramePermissions": ["camera"]
+}
